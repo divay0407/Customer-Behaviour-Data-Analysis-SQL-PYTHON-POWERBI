@@ -1,0 +1,2 @@
+# Customer-Behaviour-Data-Analysis-SQL-PYTHON-POWERBI
+This project focused on understanding customer behaviour in the e-commerce sector. Using Python for data cleaning and analysis, SQL for querying transactional databases, and Power BI for visualization, I explored purchase patterns, segmented customers based on buying behaviour. The outcome was an interactive dashboard presenting actionable insights
